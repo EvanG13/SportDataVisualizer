@@ -1,3 +1,3 @@
 # SportDataVisualizer
-##Authors
+## Authors
 Cleveland Plonsey
